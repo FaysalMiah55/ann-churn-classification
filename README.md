@@ -25,7 +25,7 @@ This project aims to predict customer churn whether a person leave or not leave 
     ```
 
 2. Create and activate a virtual environment:
-    ```sh
+     ```
     python -m venv myenv
     source myenv/bin/activate 
     ```
@@ -37,7 +37,7 @@ This project aims to predict customer churn whether a person leave or not leave 
 
 ## Usage
 Run the Streamlit app:
-    ```sh
+    ```
     streamlit run app.py
     ```
 
